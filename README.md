@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on --> 
-- 🌱 Desarrollo en aplicaciones de escritorio en .NET
+- 🌱 Desarrollo en aplicaciones MVC de escritorio en .NET
 - 🌱 Desarrollo en Vbasic, C#
 - 🌱 Utilizo la herramienta DevExpress
 - 🌱 Utilizo SQL
