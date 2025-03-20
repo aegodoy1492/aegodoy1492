@@ -6,11 +6,9 @@
 <!-- Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on --> 
-- 🌱 Desarrollo en aplicaciones MVC de escritorio en .NET
-- 🌱 Desarrollo en Vbasic, C#
-- 🌱 Utilizo la herramienta DevExpress
-- 🌱 Utilizo SQL
-- 🌱 Actualmente estoy estudiando por mi cuenta JAVA
+- 🌱 Desarrollo en aplicaciones MVC de escritorio en .NET + DevExpress
+- 🌱 Desarrollo en Vbasic, C#, java, Phyton
+- 🌱 SQL
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
